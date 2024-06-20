@@ -23,6 +23,7 @@ I am a 3rd-year student passionate about Machine Learning and its applications. 
 - Keras
 - Scikit-learn
 - PyTorch
+- spaCy
 
 ### Data Analysis & Visualization:
 - Pandas
