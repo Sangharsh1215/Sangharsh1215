@@ -8,7 +8,7 @@ I am a 3rd-year student passionate about Machine Learning and its applications. 
 
 - 🎓 I am a 3rd-year student majoring in Electronics and Communication Engineering at Indian Institute of Information Technology Una.
 - 🌱 Currently learning and working on projects in Machine Learning, Data Science, and Artificial Intelligence.
-- 💬 Ask me about anything related to ML, Python, or Data Science.
+- 💬 Discuss with me about anything related to ML, Python, or Data Science.
 - 📫 How to reach me: [iamsangharsh1215@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/Sangharsh).
 
 ## 🛠️ Skills & Tools
